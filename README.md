@@ -14,7 +14,7 @@
 - Clone the Repository
 
 ```
-git clone https://github.com/ameyalambat128/QuizForge.git
+git clone https://github.com/ameyalambat/QuizForge.git
 ```
 
 - Install all the node_modules
@@ -37,7 +37,7 @@ npm run dev
 
 ### ✍️ Authors
 
-- [Ameya](https://github.com/ameyalambat128)
+- [Ameya](https://github.com/ameyalambat)
 - [Gavin](https://github.com/gholtzap)
 - [Nick](https://github.com/niekky)
 - [Chaitanya](https://github.com/Chaitanya-Chaurasia)
